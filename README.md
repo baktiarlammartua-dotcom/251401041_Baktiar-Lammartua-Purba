@@ -90,6 +90,4 @@ Kirimkan **tautan repository GitHub hasil fork** kamu melalui spreadsheet yang a
 
 **#SemangatIKLC &nbsp;|&nbsp; #SemangatMengajar**
 
-*Universitas Sumatera Utara — Fasilkom-TI — Program Studi Ilmu Komputer*
-
 </div>
